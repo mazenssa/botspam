@@ -10,4 +10,4 @@ channel.send(`hell gays hello mazen ana esmy mazen ayman mohamed elsayed mazen  
 }, 30)
 })
 
-client.login("NTM1MTk3Mjk1NDM2ODkwMTM2.DyFDlw.ZgBs64cnUhkbZNFaEnv0LlVCcQc");
+client.login(""NTM1Mzg5Mzg5OTY3MDY1MDg4.DyPm_g.TrIQCtzhy0pBCekvO-BQMyX-SX0"");
